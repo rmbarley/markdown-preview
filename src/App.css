@@ -1,0 +1,14 @@
+body {
+  background-color: #F4F4F4; }
+
+.App {
+  text-align: center;
+  font-size: 18px;
+  color: #373737; }
+  .App h3 {
+    margin-top: 4rem;
+    margin-bottom: 5.75rem; }
+  .App textarea {
+    height: 50rem;
+    width: 75%;
+    background-color: #FFFFFF; }
