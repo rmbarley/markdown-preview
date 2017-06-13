@@ -12,3 +12,5 @@ body {
     height: 50rem;
     width: 75%;
     background-color: #FFFFFF; }
+  .App output {
+    text-align: left; }
