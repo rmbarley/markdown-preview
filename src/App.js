@@ -6,7 +6,7 @@ class App extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      value: '# Hello\n## Welcome\n[My Portfolio](http://rmbarley.github.io)'
+      value: '# Hello\n## Welcome\n[My Portfolio](http://rmbarley.github.io/profil)'
     };
     this.handleChange = this.handleChange.bind(this);
   }
